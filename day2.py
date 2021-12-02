@@ -18,4 +18,3 @@ for x in f:
 
 
 print(dep*hor)
-print(hor)

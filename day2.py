@@ -1,6 +1,5 @@
 f = open("/home/fati/Desktop/input2", "r")
 
-list = []
 hor = 0
 dep = 0
 aim = 0
